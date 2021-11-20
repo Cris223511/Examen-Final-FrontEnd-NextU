@@ -1,4 +1,4 @@
-## Página web principal de COMPUSAC.
+## Página web OYE! - Proyecto Final de FrontEnd - NextU.
 
 <i><p aligh="justify">
 - Página Web Oye!, es un sitio web donde los usuarios pueden escuchar música de forma libre y gratuita. Los usuarios podrán navegar por toda la página web.
