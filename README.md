@@ -1,8 +1,24 @@
-## Página web ¡OYE! - Proyecto Final de FrontEnd - NextU.
+<i>
+    <h2 align="center">¡OYE! Web Page</h2>
+    <p align="center">Final FrontEnd Project - NextU</p>
+</i>
 
-<i><p aligh="justify">
-- Página Web Oye!, es un sitio web donde los usuarios pueden escuchar música de forma libre y gratuita. Los usuarios podrán navegar por toda la página web.
-- En este proyecto se trabajó con HTML, CSS, JS y Boostrap Responsive. </p></i>
+<i>
+  <p align="justify">
+  What is ¡OYE!?
+  
+  ¡OYE! is a web platform that allows users to listen to music freely and without restrictions. 
+  The website provides an intuitive and dynamic interface, enabling users to explore various music genres and navigate seamlessly through the content. 
+  
+  This project was developed using:
+  
+  - HTML, CSS, and JavaScript for a structured and interactive design.
+  - Bootstrap for a fully responsive layout, ensuring compatibility across different devices.
+  - Modern web development techniques to enhance performance and user experience.
+  
+  The platform showcases the implementation of responsive design, interactive components, and efficient media integration, making it an engaging and user-friendly music streaming site.
+  </p>
+</i>
 
 ---
 
